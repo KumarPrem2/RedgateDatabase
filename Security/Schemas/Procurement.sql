@@ -1,0 +1,3 @@
+CREATE SCHEMA [Procurement]
+AUTHORIZATION [dbo]
+GO
