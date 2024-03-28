@@ -1,0 +1,8 @@
+CREATE TABLE [HR].[Candidates]
+(
+[id] [int] NOT NULL IDENTITY(1, 1),
+[fullname] [varchar] (100) COLLATE SQL_Latin1_General_CP1_CI_AS NOT NULL
+) ON [PRIMARY]
+GO
+ALTER TABLE [HR].[Candidates] ADD CONSTRAINT [PK__Candidat__3213E83F50476853] PRIMARY KEY CLUSTERED ([id]) ON [PRIMARY]
+GO

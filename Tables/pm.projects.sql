@@ -1,0 +1,8 @@
+CREATE TABLE [pm].[projects]
+(
+[id] [int] NOT NULL IDENTITY(1, 1),
+[title] [varchar] (255) COLLATE SQL_Latin1_General_CP1_CI_AS NOT NULL
+) ON [PRIMARY]
+GO
+ALTER TABLE [pm].[projects] ADD CONSTRAINT [PK__projects__3213E83F3546A630] PRIMARY KEY CLUSTERED ([id]) ON [PRIMARY]
+GO
