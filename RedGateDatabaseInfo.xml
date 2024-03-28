@@ -65,33 +65,33 @@
   </WriteToFileOptions>
   <DataFileSet>
     <Count>28</Count>
-    <DataFile>sales.order_items_Data.sql</DataFile>
-    <DataFile>sales.orders_Data.sql</DataFile>
-    <DataFile>production.stocks_Data.sql</DataFile>
-    <DataFile>pm.members_Data.sql</DataFile>
-    <DataFile>HR.Person Position_Data.sql</DataFile>
-    <DataFile>sales.visits_Data.sql</DataFile>
-    <DataFile>sales.staffs_Data.sql</DataFile>
-    <DataFile>production.products_Data.sql</DataFile>
-    <DataFile>Procurement.Purchase Orders_Data.sql</DataFile>
-    <DataFile>Procurement.invoice_receipts_Data.sql</DataFile>
-    <DataFile>Procurement.Good Receipts_Data.sql</DataFile>
     <DataFile>customer_services.jobs_Data.sql</DataFile>
-    <DataFile>pm.projects_Data.sql</DataFile>
-    <DataFile>HR.position_Data.sql</DataFile>
-    <DataFile>HR.Person_Data.sql</DataFile>
-    <DataFile>HR.Employees_Data.sql</DataFile>
-    <DataFile>HR.Candidates_Data.sql</DataFile>
-    <DataFile>sales.stores_Data.sql</DataFile>
-    <DataFile>sales.Quotations_Data.sql</DataFile>
-    <DataFile>sales.price_lists_Data.sql</DataFile>
-    <DataFile>sales.offices_Data.sql</DataFile>
-    <DataFile>sales.feedbacks_Data.sql</DataFile>
-    <DataFile>sales.customers_Data.sql</DataFile>
-    <DataFile>sales.Customer Groups_Data.sql</DataFile>
-    <DataFile>sales.contracts_Data.sql</DataFile>
-    <DataFile>production.categories_Data.sql</DataFile>
-    <DataFile>production.brands_Data.sql</DataFile>
     <DataFile>dbo.persons_Data.sql</DataFile>
+    <DataFile>HR.Candidates_Data.sql</DataFile>
+    <DataFile>HR.Employees_Data.sql</DataFile>
+    <DataFile>HR.Person Position_Data.sql</DataFile>
+    <DataFile>HR.Person_Data.sql</DataFile>
+    <DataFile>HR.position_Data.sql</DataFile>
+    <DataFile>pm.members_Data.sql</DataFile>
+    <DataFile>pm.projects_Data.sql</DataFile>
+    <DataFile>Procurement.Good Receipts_Data.sql</DataFile>
+    <DataFile>Procurement.invoice_receipts_Data.sql</DataFile>
+    <DataFile>Procurement.Purchase Orders_Data.sql</DataFile>
+    <DataFile>production.brands_Data.sql</DataFile>
+    <DataFile>production.categories_Data.sql</DataFile>
+    <DataFile>production.products_Data.sql</DataFile>
+    <DataFile>production.stocks_Data.sql</DataFile>
+    <DataFile>sales.contracts_Data.sql</DataFile>
+    <DataFile>sales.Customer Groups_Data.sql</DataFile>
+    <DataFile>sales.customers_Data.sql</DataFile>
+    <DataFile>sales.feedbacks_Data.sql</DataFile>
+    <DataFile>sales.offices_Data.sql</DataFile>
+    <DataFile>sales.orders_Data.sql</DataFile>
+    <DataFile>sales.order_items_Data.sql</DataFile>
+    <DataFile>sales.price_lists_Data.sql</DataFile>
+    <DataFile>sales.Quotations_Data.sql</DataFile>
+    <DataFile>sales.staffs_Data.sql</DataFile>
+    <DataFile>sales.stores_Data.sql</DataFile>
+    <DataFile>sales.visits_Data.sql</DataFile>
   </DataFileSet>
 </DatabaseInformation>
